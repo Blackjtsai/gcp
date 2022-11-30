@@ -1,0 +1,7 @@
+{
+  "name":"Amy",
+  "age":20,
+  "married":false,
+  "city":"New York",
+  "languages": ["English", "French"]
+}
