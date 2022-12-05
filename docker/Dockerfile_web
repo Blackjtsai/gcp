@@ -1,5 +1,0 @@
-FROM net6sdk
-WORKDIR /home/P3_Web_P
-COPY ./P3_Web_P ./
-EXPOSE 80
-ENTRYPOINT [ "dotnet","P3_Web.dll" ,"--urls" , "http://0.0.0.0:80"]
